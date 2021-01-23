@@ -1,7 +1,7 @@
 export const GOOGLE_SIGN_IN_CONFIG = {
   webClientId:
-    '297766130098-m68tu9o0b0kgoi5aut7k3mepd1lotbn3.apps.googleusercontent.com',
+    '484331787520-dinj46nd0mf3fe88kdv2eup610rrbdca.apps.googleusercontent.com',
   offlineAccess: true,
 };
 
-export const SUPPORT_DIGITS_PLUGIN = false;
+export const SUPPORT_DIGITS_PLUGIN = true;
