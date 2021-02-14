@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "rn_bibhinno-tvOS.app"
-               BlueprintName = "rn_bibhinno-tvOS"
-               ReferencedContainer = "container:rn_bibhinno.xcodeproj">
+               BuildableName = "gb_bibhinno-tvOS.app"
+               BlueprintName = "gb_bibhinno-tvOS"
+               ReferencedContainer = "container:gb_bibhinno.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "rn_bibhinno-tvOSTests.xctest"
-               BlueprintName = "rn_bibhinno-tvOSTests"
-               ReferencedContainer = "container:rn_bibhinno.xcodeproj">
+               BuildableName = "gb_bibhinno-tvOSTests.xctest"
+               BlueprintName = "gb_bibhinno-tvOSTests"
+               ReferencedContainer = "container:gb_bibhinno.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rn_bibhinno-tvOS.app"
-            BlueprintName = "rn_bibhinno-tvOS"
-            ReferencedContainer = "container:rn_bibhinno.xcodeproj">
+            BuildableName = "gb_bibhinno-tvOS.app"
+            BlueprintName = "gb_bibhinno-tvOS"
+            ReferencedContainer = "container:gb_bibhinno.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "rn_bibhinno-tvOS.app"
-            BlueprintName = "rn_bibhinno-tvOS"
-            ReferencedContainer = "container:rn_bibhinno.xcodeproj">
+            BuildableName = "gb_bibhinno-tvOS.app"
+            BlueprintName = "gb_bibhinno-tvOS"
+            ReferencedContainer = "container:gb_bibhinno.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

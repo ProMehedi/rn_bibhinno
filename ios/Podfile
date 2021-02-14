@@ -7,12 +7,12 @@ target 'OneSignalNotificationServiceExtension' do
   pod 'OneSignal', '>= 2.9.3', '< 3.0'
 end
 
-target 'rn_bibhinno' do
+target 'gb_bibhinno' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
 
-  target 'rn_bibhinnoTests' do
+  target 'gb_bibhinnoTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -27,10 +27,10 @@ target 'rn_bibhinno' do
   end
 end
 
-target 'rn_bibhinno-tvOS' do
-  # Pods for rn_bibhinno-tvOS
+target 'gb_bibhinno-tvOS' do
+  # Pods for gb_bibhinno-tvOS
 
-  target 'rn_bibhinno-tvOSTests' do
+  target 'gb_bibhinno-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

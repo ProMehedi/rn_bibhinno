@@ -3,7 +3,7 @@
  * App router
  *
  *
- * App Name:          rn_bibhinno
+ * App Name:          gb_bibhinno
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.1.0
  * Author:            Rnlab.io
@@ -86,8 +86,7 @@ class AppRouter extends React.Component {
     const {theme, colors} = this.props;
     const {isConnected} = this.state;
 
-    const themeColor =
-      theme === 'light' ? getThemeLight(colors) : darkColors;
+    const themeColor = theme === 'light' ? getThemeLight(colors) : darkColors;
     const barStyle = theme === 'light' ? 'dark-content' : 'light-content';
 
     return (

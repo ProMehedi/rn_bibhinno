@@ -1,6 +1,6 @@
 export default {
   AppleAppID: '1475075333',
-  GooglePackageName: 'com.rn_bibhinno',
+  GooglePackageName: 'com.gb_bibhinno',
   preferInApp: true,
   openAppStoreIfInAppFails: true,
 };

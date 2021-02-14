@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* rn_bibhinnoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rn_bibhinnoTests.m */; };
+		00E356F31AD99517003FC87E /* gb_bibhinnoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* gb_bibhinnoTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2AE2B5E65FB017ABFC3DDE20 /* libPods-rn_bibhinno-rn_bibhinnoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CDE3C77E4770D2E8A10B4F6 /* libPods-rn_bibhinno-rn_bibhinnoTests.a */; };
+		2AE2B5E65FB017ABFC3DDE20 /* libPods-gb_bibhinno-gb_bibhinnoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CDE3C77E4770D2E8A10B4F6 /* libPods-gb_bibhinno-gb_bibhinnoTests.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* rn_bibhinnoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rn_bibhinnoTests.m */; };
-		7DA94FA674737E314BFF1212 /* libPods-rn_bibhinno-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 635746A4C717A6DFE9009247 /* libPods-rn_bibhinno-tvOSTests.a */; };
-		B10277C4151CF9DA3F78656A /* libPods-rn_bibhinno.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E70D379BFE9DAACC3A929A44 /* libPods-rn_bibhinno.a */; };
-		B9D20ABEA3470A1501B2EB20 /* libPods-rn_bibhinno-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BA721F957995F0CC4FAA06ED /* libPods-rn_bibhinno-tvOS.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* gb_bibhinnoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* gb_bibhinnoTests.m */; };
+		7DA94FA674737E314BFF1212 /* libPods-gb_bibhinno-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 635746A4C717A6DFE9009247 /* libPods-gb_bibhinno-tvOSTests.a */; };
+		B10277C4151CF9DA3F78656A /* libPods-gb_bibhinno.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E70D379BFE9DAACC3A929A44 /* libPods-gb_bibhinno.a */; };
+		B9D20ABEA3470A1501B2EB20 /* libPods-gb_bibhinno-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BA721F957995F0CC4FAA06ED /* libPods-gb_bibhinno-tvOS.a */; };
 		E239CFE924E67083006C0AA3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E239CFE824E67083006C0AA3 /* GoogleService-Info.plist */; };
 		E2634D8D248F19C800AECBEF /* NotificationService.m in Sources */ = {isa = PBXBuildFile; fileRef = E2634D8C248F19C800AECBEF /* NotificationService.m */; };
 		E2634D91248F19C800AECBEF /* OneSignalNotificationServiceExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E2634D89248F19C800AECBEF /* OneSignalNotificationServiceExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -40,14 +40,14 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = rn_bibhinno;
+			remoteInfo = gb_bibhinno;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "rn_bibhinno-tvOS";
+			remoteInfo = "gb_bibhinno-tvOS";
 		};
 		E2634D8F248F19C800AECBEF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -73,48 +73,48 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* rn_bibhinnoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rn_bibhinnoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* gb_bibhinnoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gb_bibhinnoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* rn_bibhinnoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rn_bibhinnoTests.m; sourceTree = "<group>"; };
-		0649A5B9F79A87C17CA3EEFE /* Pods-rn_bibhinno.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_bibhinno.debug.xcconfig"; path = "Target Support Files/Pods-rn_bibhinno/Pods-rn_bibhinno.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* gb_bibhinnoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gb_bibhinnoTests.m; sourceTree = "<group>"; };
+		0649A5B9F79A87C17CA3EEFE /* Pods-gb_bibhinno.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gb_bibhinno.debug.xcconfig"; path = "Target Support Files/Pods-gb_bibhinno/Pods-gb_bibhinno.debug.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Oreo Fashion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Oreo Fashion.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = rn_bibhinno/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = rn_bibhinno/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = rn_bibhinno/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = rn_bibhinno/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = rn_bibhinno/main.m; sourceTree = "<group>"; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = gb_bibhinno/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = gb_bibhinno/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = gb_bibhinno/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = gb_bibhinno/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = gb_bibhinno/main.m; sourceTree = "<group>"; };
 		160459C9916A4F7B97C50DFF /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* rn_bibhinno-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rn_bibhinno-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* rn_bibhinno-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "rn_bibhinno-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E47B1E0B4A5D006451C7 /* gb_bibhinno-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "gb_bibhinno-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* gb_bibhinno-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "gb_bibhinno-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EA15950234442CD807F8429 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		342F26E965504A06A89F7180 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		40579B289B85480E8A88500E /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
-		40B02A170B561552397F8252 /* Pods-rn_bibhinno-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_bibhinno-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-rn_bibhinno-tvOSTests/Pods-rn_bibhinno-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		4BEA51715BC0F356E747BFD6 /* Pods-rn_bibhinno.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_bibhinno.release.xcconfig"; path = "Target Support Files/Pods-rn_bibhinno/Pods-rn_bibhinno.release.xcconfig"; sourceTree = "<group>"; };
+		40B02A170B561552397F8252 /* Pods-gb_bibhinno-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gb_bibhinno-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-gb_bibhinno-tvOSTests/Pods-gb_bibhinno-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4BEA51715BC0F356E747BFD6 /* Pods-gb_bibhinno.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gb_bibhinno.release.xcconfig"; path = "Target Support Files/Pods-gb_bibhinno/Pods-gb_bibhinno.release.xcconfig"; sourceTree = "<group>"; };
 		52BA1C5E93FE43BE8493E2DA /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		5B9EB759841748B69F84BA4E /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
-		635746A4C717A6DFE9009247 /* libPods-rn_bibhinno-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn_bibhinno-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		635746A4C717A6DFE9009247 /* libPods-gb_bibhinno-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-gb_bibhinno-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63A71A6F839B4C4BB73DC8D6 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
-		6CDE3C77E4770D2E8A10B4F6 /* libPods-rn_bibhinno-rn_bibhinnoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn_bibhinno-rn_bibhinnoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CDE3C77E4770D2E8A10B4F6 /* libPods-gb_bibhinno-gb_bibhinnoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-gb_bibhinno-gb_bibhinnoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FDCB3ED849C4F7FAF479303 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
-		7272D0C762C8F4F21CCDAEB8 /* Pods-rn_bibhinno-rn_bibhinnoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_bibhinno-rn_bibhinnoTests.release.xcconfig"; path = "Target Support Files/Pods-rn_bibhinno-rn_bibhinnoTests/Pods-rn_bibhinno-rn_bibhinnoTests.release.xcconfig"; sourceTree = "<group>"; };
+		7272D0C762C8F4F21CCDAEB8 /* Pods-gb_bibhinno-gb_bibhinnoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gb_bibhinno-gb_bibhinnoTests.release.xcconfig"; path = "Target Support Files/Pods-gb_bibhinno-gb_bibhinnoTests/Pods-gb_bibhinno-gb_bibhinnoTests.release.xcconfig"; sourceTree = "<group>"; };
 		747ECB254C8A45CAB24C84EA /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		7C833DDEE59A4E31822B647A /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
 		7E2482533F31437AA4CA63F1 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 		8628BDE907524C1CB9D1A86E /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		88085CD9B40F4A73B0DD12E4 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
-		89343B46996615CA5D29A0ED /* Pods-rn_bibhinno-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_bibhinno-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-rn_bibhinno-tvOS/Pods-rn_bibhinno-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		89343B46996615CA5D29A0ED /* Pods-gb_bibhinno-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gb_bibhinno-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-gb_bibhinno-tvOS/Pods-gb_bibhinno-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		A10B18111FB24D4BBE606077 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		A42125AF0957EE6ACFAEE0FB /* Pods-OneSignalNotificationServiceExtension.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneSignalNotificationServiceExtension.debug.xcconfig"; path = "Target Support Files/Pods-OneSignalNotificationServiceExtension/Pods-OneSignalNotificationServiceExtension.debug.xcconfig"; sourceTree = "<group>"; };
-		A52099ACEC4BBB1287CCC9D1 /* Pods-rn_bibhinno-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_bibhinno-tvOS.release.xcconfig"; path = "Target Support Files/Pods-rn_bibhinno-tvOS/Pods-rn_bibhinno-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		A52099ACEC4BBB1287CCC9D1 /* Pods-gb_bibhinno-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gb_bibhinno-tvOS.release.xcconfig"; path = "Target Support Files/Pods-gb_bibhinno-tvOS/Pods-gb_bibhinno-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		A71B8B46E86459CCFBAC25DA /* libPods-OneSignalNotificationServiceExtension.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OneSignalNotificationServiceExtension.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE5B49AEBD3C4B7F987440C4 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
 		B20FAACF7C084FEDA61FB1F5 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
-		BA721F957995F0CC4FAA06ED /* libPods-rn_bibhinno-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn_bibhinno-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA721F957995F0CC4FAA06ED /* libPods-gb_bibhinno-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-gb_bibhinno-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF12B013C4924DEAADD432ED /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		E0968CE58FD6131FC6755979 /* Pods-OneSignalNotificationServiceExtension.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OneSignalNotificationServiceExtension.release.xcconfig"; path = "Target Support Files/Pods-OneSignalNotificationServiceExtension/Pods-OneSignalNotificationServiceExtension.release.xcconfig"; sourceTree = "<group>"; };
 		E239CFE824E67083006C0AA3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		E2634D84248F188000AECBEF /* Oreo Fashion.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = "Oreo Fashion.entitlements"; path = "rn_bibhinno/Oreo Fashion.entitlements"; sourceTree = "<group>"; };
+		E2634D84248F188000AECBEF /* Oreo Fashion.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = "Oreo Fashion.entitlements"; path = "gb_bibhinno/Oreo Fashion.entitlements"; sourceTree = "<group>"; };
 		E2634D89248F19C800AECBEF /* OneSignalNotificationServiceExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = OneSignalNotificationServiceExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2634D8B248F19C800AECBEF /* NotificationService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NotificationService.h; sourceTree = "<group>"; };
 		E2634D8C248F19C800AECBEF /* NotificationService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NotificationService.m; sourceTree = "<group>"; };
@@ -124,12 +124,12 @@
 		E2F138212524327500752A6D /* Empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Empty.swift; sourceTree = "<group>"; };
 		E2F138292524349D00752A6D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3A7DFAAA9DB4CED8BDBD7B9 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
-		E70D379BFE9DAACC3A929A44 /* libPods-rn_bibhinno.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn_bibhinno.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA2CA68D854930B35560F89C /* Pods-rn_bibhinno-rn_bibhinnoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_bibhinno-rn_bibhinnoTests.debug.xcconfig"; path = "Target Support Files/Pods-rn_bibhinno-rn_bibhinnoTests/Pods-rn_bibhinno-rn_bibhinnoTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E70D379BFE9DAACC3A929A44 /* libPods-gb_bibhinno.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-gb_bibhinno.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA2CA68D854930B35560F89C /* Pods-gb_bibhinno-gb_bibhinnoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gb_bibhinno-gb_bibhinnoTests.debug.xcconfig"; path = "Target Support Files/Pods-gb_bibhinno-gb_bibhinnoTests/Pods-gb_bibhinno-gb_bibhinnoTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EE6864CE2BFA4701BA056EBD /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
-		FAB94D457501D7C6A89ADE08 /* Pods-rn_bibhinno-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn_bibhinno-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-rn_bibhinno-tvOSTests/Pods-rn_bibhinno-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		FAB94D457501D7C6A89ADE08 /* Pods-gb_bibhinno-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-gb_bibhinno-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-gb_bibhinno-tvOSTests/Pods-gb_bibhinno-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,7 +137,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2AE2B5E65FB017ABFC3DDE20 /* libPods-rn_bibhinno-rn_bibhinnoTests.a in Frameworks */,
+				2AE2B5E65FB017ABFC3DDE20 /* libPods-gb_bibhinno-gb_bibhinnoTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,7 +145,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B10277C4151CF9DA3F78656A /* libPods-rn_bibhinno.a in Frameworks */,
+				B10277C4151CF9DA3F78656A /* libPods-gb_bibhinno.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,7 +153,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9D20ABEA3470A1501B2EB20 /* libPods-rn_bibhinno-tvOS.a in Frameworks */,
+				B9D20ABEA3470A1501B2EB20 /* libPods-gb_bibhinno-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -161,7 +161,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7DA94FA674737E314BFF1212 /* libPods-rn_bibhinno-tvOSTests.a in Frameworks */,
+				7DA94FA674737E314BFF1212 /* libPods-gb_bibhinno-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,13 +176,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* rn_bibhinnoTests */ = {
+		00E356EF1AD99517003FC87E /* gb_bibhinnoTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* rn_bibhinnoTests.m */,
+				00E356F21AD99517003FC87E /* gb_bibhinnoTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = rn_bibhinnoTests;
+			path = gb_bibhinnoTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -193,7 +193,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* rn_bibhinno */ = {
+		13B07FAE1A68108700A75B9A /* gb_bibhinno */ = {
 			isa = PBXGroup;
 			children = (
 				E239CFE824E67083006C0AA3 /* GoogleService-Info.plist */,
@@ -207,7 +207,7 @@
 				E2F138212524327500752A6D /* Empty.swift */,
 				E2F138292524349D00752A6D /* LaunchScreen.storyboard */,
 			);
-			name = rn_bibhinno;
+			name = gb_bibhinno;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -215,10 +215,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				E70D379BFE9DAACC3A929A44 /* libPods-rn_bibhinno.a */,
-				6CDE3C77E4770D2E8A10B4F6 /* libPods-rn_bibhinno-rn_bibhinnoTests.a */,
-				BA721F957995F0CC4FAA06ED /* libPods-rn_bibhinno-tvOS.a */,
-				635746A4C717A6DFE9009247 /* libPods-rn_bibhinno-tvOSTests.a */,
+				E70D379BFE9DAACC3A929A44 /* libPods-gb_bibhinno.a */,
+				6CDE3C77E4770D2E8A10B4F6 /* libPods-gb_bibhinno-gb_bibhinnoTests.a */,
+				BA721F957995F0CC4FAA06ED /* libPods-gb_bibhinno-tvOS.a */,
+				635746A4C717A6DFE9009247 /* libPods-gb_bibhinno-tvOSTests.a */,
 				A71B8B46E86459CCFBAC25DA /* libPods-OneSignalNotificationServiceExtension.a */,
 			);
 			name = Frameworks;
@@ -227,14 +227,14 @@
 		5D39D64507C9E2A4D1CCAD45 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				0649A5B9F79A87C17CA3EEFE /* Pods-rn_bibhinno.debug.xcconfig */,
-				4BEA51715BC0F356E747BFD6 /* Pods-rn_bibhinno.release.xcconfig */,
-				EA2CA68D854930B35560F89C /* Pods-rn_bibhinno-rn_bibhinnoTests.debug.xcconfig */,
-				7272D0C762C8F4F21CCDAEB8 /* Pods-rn_bibhinno-rn_bibhinnoTests.release.xcconfig */,
-				89343B46996615CA5D29A0ED /* Pods-rn_bibhinno-tvOS.debug.xcconfig */,
-				A52099ACEC4BBB1287CCC9D1 /* Pods-rn_bibhinno-tvOS.release.xcconfig */,
-				40B02A170B561552397F8252 /* Pods-rn_bibhinno-tvOSTests.debug.xcconfig */,
-				FAB94D457501D7C6A89ADE08 /* Pods-rn_bibhinno-tvOSTests.release.xcconfig */,
+				0649A5B9F79A87C17CA3EEFE /* Pods-gb_bibhinno.debug.xcconfig */,
+				4BEA51715BC0F356E747BFD6 /* Pods-gb_bibhinno.release.xcconfig */,
+				EA2CA68D854930B35560F89C /* Pods-gb_bibhinno-gb_bibhinnoTests.debug.xcconfig */,
+				7272D0C762C8F4F21CCDAEB8 /* Pods-gb_bibhinno-gb_bibhinnoTests.release.xcconfig */,
+				89343B46996615CA5D29A0ED /* Pods-gb_bibhinno-tvOS.debug.xcconfig */,
+				A52099ACEC4BBB1287CCC9D1 /* Pods-gb_bibhinno-tvOS.release.xcconfig */,
+				40B02A170B561552397F8252 /* Pods-gb_bibhinno-tvOSTests.debug.xcconfig */,
+				FAB94D457501D7C6A89ADE08 /* Pods-gb_bibhinno-tvOSTests.release.xcconfig */,
 				A42125AF0957EE6ACFAEE0FB /* Pods-OneSignalNotificationServiceExtension.debug.xcconfig */,
 				E0968CE58FD6131FC6755979 /* Pods-OneSignalNotificationServiceExtension.release.xcconfig */,
 			);
@@ -278,9 +278,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* rn_bibhinno */,
+				13B07FAE1A68108700A75B9A /* gb_bibhinno */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* rn_bibhinnoTests */,
+				00E356EF1AD99517003FC87E /* gb_bibhinnoTests */,
 				E2634D8A248F19C800AECBEF /* OneSignalNotificationServiceExtension */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
@@ -296,9 +296,9 @@
 			isa = PBXGroup;
 			children = (
 				13B07F961A680F5B00A75B9A /* Oreo Fashion.app */,
-				00E356EE1AD99517003FC87E /* rn_bibhinnoTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* rn_bibhinno-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* rn_bibhinno-tvOSTests.xctest */,
+				00E356EE1AD99517003FC87E /* gb_bibhinnoTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* gb_bibhinno-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* gb_bibhinno-tvOSTests.xctest */,
 				E2634D89248F19C800AECBEF /* OneSignalNotificationServiceExtension.appex */,
 			);
 			name = Products;
@@ -317,9 +317,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* rn_bibhinnoTests */ = {
+		00E356ED1AD99517003FC87E /* gb_bibhinnoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "rn_bibhinnoTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "gb_bibhinnoTests" */;
 			buildPhases = (
 				C76494BC912E4889B3B925B4 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -332,14 +332,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = rn_bibhinnoTests;
-			productName = rn_bibhinnoTests;
-			productReference = 00E356EE1AD99517003FC87E /* rn_bibhinnoTests.xctest */;
+			name = gb_bibhinnoTests;
+			productName = gb_bibhinnoTests;
+			productReference = 00E356EE1AD99517003FC87E /* gb_bibhinnoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* rn_bibhinno */ = {
+		13B07F861A680F5B00A75B9A /* gb_bibhinno */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "rn_bibhinno" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "gb_bibhinno" */;
 			buildPhases = (
 				D2BC05338ED93E6B84FD95FF /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -356,14 +356,14 @@
 			dependencies = (
 				E2634D90248F19C800AECBEF /* PBXTargetDependency */,
 			);
-			name = rn_bibhinno;
-			productName = rn_bibhinno;
+			name = gb_bibhinno;
+			productName = gb_bibhinno;
 			productReference = 13B07F961A680F5B00A75B9A /* Oreo Fashion.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* rn_bibhinno-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* gb_bibhinno-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rn_bibhinno-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "gb_bibhinno-tvOS" */;
 			buildPhases = (
 				F30A1F80802BA53117E401D7 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -376,14 +376,14 @@
 			);
 			dependencies = (
 			);
-			name = "rn_bibhinno-tvOS";
-			productName = "rn_bibhinno-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* rn_bibhinno-tvOS.app */;
+			name = "gb_bibhinno-tvOS";
+			productName = "gb_bibhinno-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* gb_bibhinno-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* rn_bibhinno-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* gb_bibhinno-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rn_bibhinno-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "gb_bibhinno-tvOSTests" */;
 			buildPhases = (
 				533255473784CC04ECF55533 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -395,9 +395,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "rn_bibhinno-tvOSTests";
-			productName = "rn_bibhinno-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* rn_bibhinno-tvOSTests.xctest */;
+			name = "gb_bibhinno-tvOSTests";
+			productName = "gb_bibhinno-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* gb_bibhinno-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		E2634D88248F19C800AECBEF /* OneSignalNotificationServiceExtension */ = {
@@ -451,7 +451,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "rn_bibhinno" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "gb_bibhinno" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -464,10 +464,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* rn_bibhinno */,
-				00E356ED1AD99517003FC87E /* rn_bibhinnoTests */,
-				2D02E47A1E0B4A5D006451C7 /* rn_bibhinno-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* rn_bibhinno-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* gb_bibhinno */,
+				00E356ED1AD99517003FC87E /* gb_bibhinnoTests */,
+				2D02E47A1E0B4A5D006451C7 /* gb_bibhinno-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* gb_bibhinno-tvOSTests */,
 				E2634D88248F19C800AECBEF /* OneSignalNotificationServiceExtension */,
 			);
 		};
@@ -587,7 +587,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn_bibhinno-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-gb_bibhinno-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -600,7 +600,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-rn_bibhinno-rn_bibhinnoTests/Pods-rn_bibhinno-rn_bibhinnoTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-gb_bibhinno-gb_bibhinnoTests/Pods-gb_bibhinno-gb_bibhinnoTests-resources.sh",
 				"${PODS_ROOT}/FBSDKCoreKit/FacebookSDKStrings.bundle",
 				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
@@ -645,7 +645,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rn_bibhinno-rn_bibhinnoTests/Pods-rn_bibhinno-rn_bibhinnoTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-gb_bibhinno-gb_bibhinnoTests/Pods-gb_bibhinno-gb_bibhinnoTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C5BF001CDFC7199D0E761BB1 /* [CP] Copy Pods Resources */ = {
@@ -654,7 +654,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-rn_bibhinno/Pods-rn_bibhinno-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-gb_bibhinno/Pods-gb_bibhinno-resources.sh",
 				"${PODS_ROOT}/FBSDKCoreKit/FacebookSDKStrings.bundle",
 				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
@@ -699,7 +699,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rn_bibhinno/Pods-rn_bibhinno-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-gb_bibhinno/Pods-gb_bibhinno-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C76494BC912E4889B3B925B4 /* [CP] Check Pods Manifest.lock */ = {
@@ -717,7 +717,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn_bibhinno-rn_bibhinnoTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-gb_bibhinno-gb_bibhinnoTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -739,7 +739,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn_bibhinno-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-gb_bibhinno-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -771,7 +771,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn_bibhinno-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-gb_bibhinno-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -823,7 +823,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* rn_bibhinnoTests.m in Sources */,
+				00E356F31AD99517003FC87E /* gb_bibhinnoTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -851,7 +851,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* rn_bibhinnoTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* gb_bibhinnoTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -868,12 +868,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* rn_bibhinno */;
+			target = 13B07F861A680F5B00A75B9A /* gb_bibhinno */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* rn_bibhinno-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* gb_bibhinno-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 		E2634D90248F19C800AECBEF /* PBXTargetDependency */ = {
@@ -886,7 +886,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EA2CA68D854930B35560F89C /* Pods-rn_bibhinno-rn_bibhinnoTests.debug.xcconfig */;
+			baseConfigurationReference = EA2CA68D854930B35560F89C /* Pods-gb_bibhinno-gb_bibhinnoTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -894,7 +894,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = rn_bibhinnoTests/Info.plist;
+				INFOPLIST_FILE = gb_bibhinnoTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -904,18 +904,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rn_bibhinno.app/rn_bibhinno";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gb_bibhinno.app/gb_bibhinno";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7272D0C762C8F4F21CCDAEB8 /* Pods-rn_bibhinno-rn_bibhinnoTests.release.xcconfig */;
+			baseConfigurationReference = 7272D0C762C8F4F21CCDAEB8 /* Pods-gb_bibhinno-gb_bibhinnoTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = rn_bibhinnoTests/Info.plist;
+				INFOPLIST_FILE = gb_bibhinnoTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -925,17 +925,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rn_bibhinno.app/rn_bibhinno";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gb_bibhinno.app/gb_bibhinno";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0649A5B9F79A87C17CA3EEFE /* Pods-rn_bibhinno.debug.xcconfig */;
+			baseConfigurationReference = 0649A5B9F79A87C17CA3EEFE /* Pods-gb_bibhinno.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = "rn_bibhinno/Oreo Fashion.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "gb_bibhinno/Oreo Fashion.entitlements";
 				CURRENT_PROJECT_VERSION = 101;
 				DEVELOPMENT_TEAM = F3PBLAQ75H;
 				ENABLE_BITCODE = NO;
@@ -943,7 +943,7 @@
 					"$(inherited)",
 					"FB_SONARKIT_ENABLED=1",
 				);
-				INFOPLIST_FILE = rn_bibhinno/Info.plist;
+				INFOPLIST_FILE = gb_bibhinno/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 2.3.1;
@@ -954,7 +954,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = oreo.rnlab.io;
 				PRODUCT_NAME = "Oreo Fashion";
-				SWIFT_OBJC_BRIDGING_HEADER = "rn_bibhinno-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "gb_bibhinno-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -963,14 +963,14 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4BEA51715BC0F356E747BFD6 /* Pods-rn_bibhinno.release.xcconfig */;
+			baseConfigurationReference = 4BEA51715BC0F356E747BFD6 /* Pods-gb_bibhinno.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = "rn_bibhinno/Oreo Fashion.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "gb_bibhinno/Oreo Fashion.entitlements";
 				CURRENT_PROJECT_VERSION = 101;
 				DEVELOPMENT_TEAM = F3PBLAQ75H;
-				INFOPLIST_FILE = rn_bibhinno/Info.plist;
+				INFOPLIST_FILE = gb_bibhinno/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 2.3.1;
@@ -981,7 +981,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = oreo.rnlab.io;
 				PRODUCT_NAME = "Oreo Fashion";
-				SWIFT_OBJC_BRIDGING_HEADER = "rn_bibhinno-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "gb_bibhinno-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -989,7 +989,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89343B46996615CA5D29A0ED /* Pods-rn_bibhinno-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 89343B46996615CA5D29A0ED /* Pods-gb_bibhinno-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -1001,17 +1001,17 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "rn_bibhinno-tvOS/Info.plist";
+				INFOPLIST_FILE = "gb_bibhinno-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.rn_bibhinno-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.gb_bibhinno-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				SWIFT_OBJC_BRIDGING_HEADER = "rn_bibhinno-tvOS-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "gb_bibhinno-tvOS-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -1021,7 +1021,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A52099ACEC4BBB1287CCC9D1 /* Pods-rn_bibhinno-tvOS.release.xcconfig */;
+			baseConfigurationReference = A52099ACEC4BBB1287CCC9D1 /* Pods-gb_bibhinno-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -1033,17 +1033,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "rn_bibhinno-tvOS/Info.plist";
+				INFOPLIST_FILE = "gb_bibhinno-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.rn_bibhinno-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.gb_bibhinno-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				SWIFT_OBJC_BRIDGING_HEADER = "rn_bibhinno-tvOS-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "gb_bibhinno-tvOS-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
@@ -1052,7 +1052,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 40B02A170B561552397F8252 /* Pods-rn_bibhinno-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 40B02A170B561552397F8252 /* Pods-gb_bibhinno-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -1063,24 +1063,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "rn_bibhinno-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "gb_bibhinno-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.rn_bibhinno-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.gb_bibhinno-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rn_bibhinno-tvOS.app/rn_bibhinno-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gb_bibhinno-tvOS.app/gb_bibhinno-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FAB94D457501D7C6A89ADE08 /* Pods-rn_bibhinno-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = FAB94D457501D7C6A89ADE08 /* Pods-gb_bibhinno-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -1091,17 +1091,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "rn_bibhinno-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "gb_bibhinno-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.rn_bibhinno-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.gb_bibhinno-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rn_bibhinno-tvOS.app/rn_bibhinno-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/gb_bibhinno-tvOS.app/gb_bibhinno-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -1278,7 +1278,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "rn_bibhinnoTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "gb_bibhinnoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1287,7 +1287,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "rn_bibhinno" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "gb_bibhinno" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1296,7 +1296,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rn_bibhinno-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "gb_bibhinno-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1305,7 +1305,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "rn_bibhinno-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "gb_bibhinno-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1314,7 +1314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "rn_bibhinno" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "gb_bibhinno" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

@@ -1,4 +1,4 @@
-package com.rn_bibhinno;
+package com.gb_bibhinno;
 
 import android.os.Bundle;
 
@@ -23,7 +23,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "rn_bibhinno";
+    return "gb_bibhinno";
   }
 
   @Override

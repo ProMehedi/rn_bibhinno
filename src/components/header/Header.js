@@ -80,6 +80,10 @@ const Header = ({
         leftComponent}
     </Children>
 
+    <Children>
+      <Icon name="phone" />
+    </Children>
+
     <Children
       style={StyleSheet.flatten([
         styles.centerContainer,

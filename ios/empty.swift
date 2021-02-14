@@ -1,6 +1,6 @@
 //
 //  Empty.swift
-//  rn_bibhinno
+//  gb_bibhinno
 //
 //  Created by Dang Ngoc on 9/30/20.
 //
