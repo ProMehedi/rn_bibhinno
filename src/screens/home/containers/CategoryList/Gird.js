@@ -60,10 +60,10 @@ const styles = StyleSheet.create({
 });
 Grid.defaultProps = {
   data: [],
-  width: 90,
-  height: 90,
+  width: 60,
+  height: 60,
   widthView: WIDTH_SCREEN,
-  col: 2,
+  col: 4,
   round: false,
   border: false,
   disableName: false,

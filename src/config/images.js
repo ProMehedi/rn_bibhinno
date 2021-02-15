@@ -9,4 +9,8 @@ export const imagesTheme = {
     coupon: require('src/assets/images/coupon-dark.png'),
     wave: require('src/assets/images/wave-dark.png'),
   },
+  icon: {
+    imo: require('src/assets/images/imo-logo.png'),
+    messanger: require('src/assets/images/messanger-logo.png'),
+  },
 };

@@ -7,6 +7,8 @@ import {renderNode, nodeType} from '../helpers';
 
 import Text from '../text/Text';
 import Icon from '../icons/Icon';
+import {BtnLink} from '../buttons/BtnLink';
+import {imagesTheme} from '../../config/images';
 
 const ALIGN_STYLE = {
   left: 'flex-start',
@@ -81,7 +83,27 @@ const Header = ({
     </Children>
 
     <Children>
-      <Icon name="phone" />
+      <BtnLink url="tel:01322061001">
+        <Icon name="phone" />
+      </BtnLink>
+    </Children>
+    <Children>
+      <BtnLink url="https://google.com/">
+        <Image
+          source={imagesTheme.icon.imo}
+          style={{width: 25}}
+          resizeMode="contain"
+        />
+      </BtnLink>
+    </Children>
+    <Children>
+      <BtnLink url="https://m.me/proMehedi">
+        <Image
+          source={imagesTheme.icon.messanger}
+          style={{width: 25}}
+          resizeMode="contain"
+        />
+      </BtnLink>
     </Children>
 
     <Children
