@@ -88,7 +88,7 @@ const Header = ({
       </BtnLink>
     </Children>
     <Children>
-      <BtnLink url="https://google.com/">
+      <BtnLink url="https://groups.imo.im/.3cR6gMfvuWQQlvkuX">
         <Image
           source={imagesTheme.icon.imo}
           style={{width: 25}}
@@ -160,8 +160,8 @@ Header.defaultProps = {
 
 const styles = {
   container: (theme) => ({
-    // borderBottomColor: '#f2f2f2',
-    borderBottomWidth: 0,
+    borderBottomColor: '#f2f2f2',
+    borderBottomWidth: 1,
     paddingHorizontal: spacing.padding.small + 1,
     backgroundColor: theme.colors.bgColor,
     paddingTop: getStatusBarHeight(),

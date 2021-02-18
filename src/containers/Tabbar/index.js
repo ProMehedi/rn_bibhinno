@@ -37,7 +37,7 @@ const Tabbar = (props) => {
       isShow: configs.get('toggleWishlist'),
     },
     {
-      iconName: 'shopping-bag',
+      iconName: 'shopping-cart',
       name: t('common:text_cart'),
       nameData: 'cart',
       router: homeTabs.cart,

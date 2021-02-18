@@ -86,7 +86,7 @@ class CartIcon extends React.Component<Props> {
             value={count}
           />
         </Animated.View>
-        <Icon name="shopping-bag" size={20} {...iconProps} />
+        <Icon name="shopping-cart" size={20} {...iconProps} />
       </TouchableOpacity>
     );
   }

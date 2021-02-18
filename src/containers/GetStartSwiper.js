@@ -16,7 +16,7 @@ import {margin} from 'src/components/config/spacing';
 
 const {width} = Dimensions.get('window');
 const WIDTH_IMAGE = width;
-const HEIGHT_IMAGE = (WIDTH_IMAGE * 390) / 375;
+const HEIGHT_IMAGE = (WIDTH_IMAGE * 509) / 375;
 
 class GetStartSwiper extends React.Component {
   constructor(props) {
@@ -77,9 +77,9 @@ class GetStartSwiper extends React.Component {
                   <Text h1 medium style={[styles.text, styles.title]}>
                     {swiper.title}
                   </Text>
-                  <Text colorSecondary style={styles.text}>
+                  {/* <Text colorSecondary style={styles.text}>
                     {swiper.subtitle}
-                  </Text>
+                  </Text> */}
                 </Container>
               </View>
             ))}
@@ -105,23 +105,24 @@ class GetStartSwiper extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: '#f9f9f9',
   },
   image: {
     width: WIDTH_IMAGE,
     height: HEIGHT_IMAGE,
   },
   viewInfo: {
-    marginVertical: margin.big + margin.small,
+    marginVertical: margin.small,
   },
   text: {
     textAlign: 'center',
   },
   title: {
-    marginBottom: margin.small,
+    marginBottom: 0,
   },
   viewPagination: {
     marginTop: margin.small,
-    marginBottom: margin.big,
+    marginBottom: margin.small,
     justifyContent: 'center',
   },
   viewButton: {
