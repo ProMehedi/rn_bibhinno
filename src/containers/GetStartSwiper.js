@@ -14,7 +14,7 @@ import Pagination from './Pagination';
 
 import {margin} from 'src/components/config/spacing';
 
-const {width} = Dimensions.get('window');
+const {width, height} = Dimensions.get('window');
 const WIDTH_IMAGE = width;
 const HEIGHT_IMAGE = (WIDTH_IMAGE * 509) / 375;
 
@@ -73,14 +73,14 @@ class GetStartSwiper extends React.Component {
                   resizeMode="stretch"
                   style={styles.image}
                 />
-                <Container style={styles.viewInfo}>
+                {/* <Container style={styles.viewInfo}>
                   <Text h1 medium style={[styles.text, styles.title]}>
                     {swiper.title}
                   </Text>
-                  {/* <Text colorSecondary style={styles.text}>
+                  <Text colorSecondary style={styles.text}>
                     {swiper.subtitle}
-                  </Text> */}
-                </Container>
+                  </Text>
+                </Container> */}
               </View>
             ))}
           </ScrollView>
@@ -106,10 +106,11 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#f9f9f9',
+    position: 'relative'
   },
   image: {
     width: WIDTH_IMAGE,
-    height: HEIGHT_IMAGE,
+    height: height - (margin.big * 4),
   },
   viewInfo: {
     marginVertical: margin.small,
@@ -121,12 +122,17 @@ const styles = StyleSheet.create({
     marginBottom: 0,
   },
   viewPagination: {
-    marginTop: margin.small,
-    marginBottom: margin.small,
+    position: 'absolute',
+    left: 0,
+    bottom: 0,
+    width: '100%',
+    paddingVertical: 10,
     justifyContent: 'center',
+    alignItems: 'center',
+    zIndex: 3
   },
   viewButton: {
-    marginVertical: margin.big,
+    paddingVertical: margin.big,
   },
 });
 
