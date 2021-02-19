@@ -101,7 +101,9 @@ const styles = StyleSheet.create({
     paddingLeft: padding.large,
   },
   itemSub: {
+    borderLeftWidth: 4,
     paddingHorizontal: padding.large,
+    backgroundColor: '#f9f9f9'
   },
 });
 
