@@ -84,7 +84,7 @@
     "text_facebook": "Sign In with Facebook",
     "text_google": "Sign In with Google",
     "text_have_account": "Don't have an account?",
-    "text_agree_register": "I'd like to receive exclusive offers and style advice by email and sms from Oreo",
+    "text_agree_register": "I'd like to receive exclusive offers and style advice by email and sms from Bibhinno.com",
     "text_already_account": "Already have an account?",
     "text_description_forgot": "Enter your account email address and we'll send instructions on how to reset your password",
     "text_description_login_mobile": "Login with your phone number",
@@ -216,7 +216,7 @@
     "text_title_setting": "Settings",
     "text_setting": "App Settings",
     "text_help_info": "Help & Info",
-    "text_hotline": "Hotline",
+    "text_hotline": "যোগাযোগ",
 
     "text_order": "Orders & Returns",
     "text_password": "Password",
@@ -252,14 +252,14 @@
     "text_email_newsletter": "Email newsletter",
     "text_dark": "Dark Theme",
 
-    "text_contact": "Contact us",
+    "text_contact": "যোগাযোগ",
     "text_privacy": "Privacy Policies",
     "text_term": "Terms & Conditions",
     "text_term_content": "Terms content here",
     "text_about": "About us",
     "text_rate_app": "Rate This App",
 
-    "text_name_contact": "Contact us",
+    "text_name_contact": "যোগাযোগ",
 
     "text_description_development": "You can test your Store. Please input here",
     "text_note_development": "How to get Consumer key and Consumer secret",
@@ -270,7 +270,7 @@
     "text_privacy_title_2": "2. THIRD PARTY WEBSITES",
     "text_privacy_description_2": "Our Website can contain links to and from the websites of our partner boutiques, advertisers, and affiliates, amongst others. If you follow a link to any of these websites, please note that this Privacy Policy does not apply to those websites. We are not responsible or liable for the privacy policies or practices of those websites, so please check their policies before you submit any personal data to those websites.",
 
-    "text_name_about": "Oreo React Native\nTemplate",
+    "text_name_about": "Bibhinno.com React Native\nTemplate",
     "text_research": "Research",
     "text_about_description": "This Privacy Policy sets out the information that we collect, the reasons for which we collect that information, and how we can use and share that information.",
 

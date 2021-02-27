@@ -1,0 +1,48 @@
+Keyhash: wp6TML3fpcC9jWqvSFbndGURYYE=
+
+Pass: MEHEDI&2021
+
+MD5:  79:57:6D:59:C6:F7:AC:95:70:4F:F8:0E:37:85:F2:BE
+SHA1: F7:87:B2:8C:AA:C2:70:25:5F:0B:DC:77:02:B3:D9:7E:82:FC:B6:7D
+SHA256: CB:04:13:D3:C1:9D:5C:2F:5B:E1:20:22:A6:2C:99:7B:88:34:D4:C1:CC:22:DA:8D:73:C0:68:9E:90:10:22:33
+
+Client ID: 698343050685-51ru8aag6erfmhp7c38j7peh6p4a2m0g.apps.googleusercontent.com
+Client ID: 698343050685-ngpiamqh66fhf8djujfndd4qsa5a4bjf.apps.googleusercontent.com
+
+MD5:  79:57:6D:59:C6:F7:AC:95:70:4F:F8:0E:37:85:F2:BE
+SHA1: F7:87:B2:8C:AA:C2:70:25:5F:0B:DC:77:02:B3:D9:7E:82:FC:B6:7D
+SHA256: CB:04:13:D3:C1:9D:5C:2F:5B:E1:20:22:A6:2C:99:7B:88:34:D4:C1:CC:22:DA:8D:73:C0:68:9E:90:10:22:33
+
+AIzaSyAnGd0gU2a9A0MBTsaWg6uuBfkztL_E2v0
+
+
+
+
+
+
+Variant: debug
+Config: debug
+Store: D:\ilexsolution\_App\gb_bibhinno\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, May 1, 2052
+----------
+Variant: debugUnitTest
+Config: debug
+Store: D:\ilexsolution\_App\gb_bibhinno\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C    
+Valid until: Wednesday, May 1, 2052
+----------
+Variant: release
+Config: release
+Store: D:\ilexsolution\_App\gb_bibhinno\android\app\release-key.keystore
+Alias: release-key-alias
+MD5: 79:57:6D:59:C6:F7:AC:95:70:4F:F8:0E:37:85:F2:BE
+SHA1: F7:87:B2:8C:AA:C2:70:25:5F:0B:DC:77:02:B3:D9:7E:82:FC:B6:7D
+SHA-256: CB:04:13:D3:C1:9D:5C:2F:5B:E1:20:22:A6:2C:99:7B:88:34:D4:C1:CC:22:DA:8D:73:C0:68:9E:90:10:22:33    
+Valid until: Friday, July 3, 2048

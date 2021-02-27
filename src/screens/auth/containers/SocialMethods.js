@@ -98,8 +98,8 @@ function SocialMethods(props) {
       {toggleLoginFacebook ? (
         <SocialIcon
           button
-          iconSize={16}
-          type="facebook-official"
+          iconSize={22}
+          type="facebook"
           raised={false}
           style={styles.socialIconStyle}
           onPress={loginFacebook}
@@ -108,7 +108,7 @@ function SocialMethods(props) {
       {toggleLoginGoogle ? (
         <SocialIcon
           button
-          iconSize={16}
+          iconSize={24}
           raised={false}
           type="google"
           style={styles.socialIconStyle}
@@ -117,8 +117,8 @@ function SocialMethods(props) {
       ) : null}
       {toggleLoginSMS ? (
         <SocialIcon
-          type="phone"
-          iconSize={16}
+          type="mobile"
+          iconSize={30}
           button
           raised={false}
           style={styles.socialIconStyle}

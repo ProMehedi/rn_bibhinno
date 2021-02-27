@@ -84,11 +84,15 @@ const Header = ({
 
     <Children>
       <BtnLink url="tel:01322061001">
-        <Icon name="phone" />
+      <Image
+          source={imagesTheme.icon.mobile}
+          style={{width: 14}}
+          resizeMode="contain"
+        />
       </BtnLink>
     </Children>
     <Children>
-      <BtnLink url="https://groups.imo.im/.3cR6gMfvuWQQlvkuX">
+      <BtnLink url="https://call.imo.im/bibhinno.com">
         <Image
           source={imagesTheme.icon.imo}
           style={{width: 25}}
@@ -97,7 +101,7 @@ const Header = ({
       </BtnLink>
     </Children>
     <Children>
-      <BtnLink url="https://m.me/proMehedi">
+      <BtnLink url="https://m.me/Bibhinno.com.bd">
         <Image
           source={imagesTheme.icon.messanger}
           style={{width: 25}}

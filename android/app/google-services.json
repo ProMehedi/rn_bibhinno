@@ -7,47 +7,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:484331787520:android:d9a1ca08ff3c100e4a0fe5",
+        "mobilesdk_app_id": "1:484331787520:android:da9d9fc4a7fcf70c4a0fe5",
         "android_client_info": {
           "package_name": "com.gb_bibhinno"
         }
       },
       "oauth_client": [
         {
-          "client_id": "484331787520-dinj46nd0mf3fe88kdv2eup610rrbdca.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAN1sa7a0wAlbGWxLk9YM6XQtdDTvCg3fI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "484331787520-dinj46nd0mf3fe88kdv2eup610rrbdca.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:484331787520:android:2bc3052ec78a95e74a0fe5",
-        "android_client_info": {
-          "package_name": "com.rn_bibhinno"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "484331787520-r5os0srkh387u6f5jfsjj26vfkbnav38.apps.googleusercontent.com",
+          "client_id": "484331787520-rdivfdgal55vct6s12a9oj86tid0qasl.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.rn_bibhinno",
-            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+            "package_name": "com.gb_bibhinno",
+            "certificate_hash": "f787b28caac270255f0bdc7702b3d97e82fcb67d"
           }
         },
         {

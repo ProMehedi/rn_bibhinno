@@ -26,6 +26,7 @@ const colors = {
   'google-plus-official': '#dd4b39',
   'reddit-alien': '#fc461e',
   'stack-overflow': '#f27f33',
+  'google': '#ea4335',
   angellist: '#1c4082',
   codepen: '#000000',
   envelope: '#000000',
